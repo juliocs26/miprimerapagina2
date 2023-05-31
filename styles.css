@@ -38,7 +38,11 @@ body {background-color: rgb(29, 215, 221);
 img {  text-align: center;
   width: 40%;}
 
-
+header {display: flex;
+  padding: 10px;
+  height: 50px;
+  background-color: black;}
+  
   .container-nav {
     display: flex;
     padding: 10px;
