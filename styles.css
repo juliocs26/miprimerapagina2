@@ -159,5 +159,10 @@ footer {
   align-items: center;
   justify-content: center;
   min-height: 100px;
-  background-color: blueviolet; text-align: center; position: absolute; bottom: 0px;z-index: -1;
+  background-color: blueviolet;
+  text-align: center;
+  position: absolute;
+  bottom: 0px;
+  z-index: -1;
+  width: 100%;
 }
