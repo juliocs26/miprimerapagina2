@@ -166,3 +166,7 @@ footer {
   z-index: -1;
   width: 100%;
 }
+
+main {
+  min-height: 70vh;
+}
