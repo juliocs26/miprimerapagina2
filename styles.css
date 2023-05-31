@@ -11,12 +11,11 @@ p {
   font-size: 14px;
   padding: 12px;
   margin: 10px;
-  
 }
 
 h2 {
   color: chartreuse;
-  font-family: serif;
+  font-family: Spiegel-Regular,arial,georgia,sans-serif
   font-size: 22px;
   padding: 12px, 5px, 5px, 12px;
 }
