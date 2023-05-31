@@ -131,3 +131,6 @@ header {display: flex;
     }
   }
 .greeting {text-align: center;}
+
+footer {display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100px;background-color: blueviolet;
+}
